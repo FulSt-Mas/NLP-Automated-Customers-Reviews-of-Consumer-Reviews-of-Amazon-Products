@@ -1,0 +1,43 @@
+# Core python -c "import torch; print(torch.__version__)" should print 2.2.2
+
+pip==24.2
+setuptools==75.1.0
+wheel==0.44.0
+
+# Data
+pandas==2.2.2
+numpy==1.26.4
+nltk==3.9.1
+spacy==3.7.5
+beautifulsoup4==4.12.3
+regex==2024.5.15
+
+# Traditional ML
+scikit-learn==1.4.2
+scipy==1.13.1
+joblib==1.4.2
+xgboost==2.1.1
+
+# Deep Learning / Transformers
+torch==2.2.2
+transformers==4.44.2
+datasets==2.21.0
+evaluate==0.4.3
+accelerate==0.31.0
+sentencepiece==0.2.0
+protobuf==4.25.3
+tqdm==4.66.5
+
+# Visualization
+plotly==5.24.0
+dash==2.18.2
+matplotlib==3.9.2
+seaborn==0.13.2
+tableau-api-lib==0.1.15
+
+# Dev utilities
+python-dotenv==1.0.1
+notebook==7.2.2
+ipykernel==6.29.5
+rich==13.8.1
+pyyaml==6.0.2
