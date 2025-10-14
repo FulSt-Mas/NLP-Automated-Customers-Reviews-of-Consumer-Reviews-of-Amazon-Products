@@ -73,7 +73,7 @@ Dynamic Dashboard: Interactive visualization of review summaries using Plotly Da
 
 
 📝 License
-This project is licensed under the Massih Chopan License.
+This project is licensed under the Chopan License.
 
 📧 Contact
-For any inquiries, please contact chopanmassih@gmail.com
+For any inquiries, please contact lastnamefirstname@gmail.com
