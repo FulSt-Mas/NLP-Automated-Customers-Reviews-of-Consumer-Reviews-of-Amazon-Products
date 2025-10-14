@@ -195,7 +195,7 @@ def map_ratings_to_sentiment(df: pd.DataFrame) -> pd.DataFrame:
 # ---- MAIN EXECUTION ----
 if __name__ == "__main__":
     input_path = "Data/Reviews_of_Amazon_Products_sm.csv"
-    out_dir = "/Users/massih/Code/Ironhack/1_Project/5_Project NLP | Automated Customers Reviews/NLP Automated Customers Reviews of Consumer Reviews of Amazon Products/artifacts_1_data_preprocessing"
+    out_dir = "/Users/massih/Code/Ironhack/1_Project/5_Project NLP | Automated Customers Reviews/NLP Automated Customers Reviews of Consumer Reviews of Amazon Products/artifacts/artifacts_1_data_preprocessing"
     os.makedirs(out_dir, exist_ok=True)
 
     vectorizer_path = os.path.join(out_dir, "vectorizer_1.joblib")
