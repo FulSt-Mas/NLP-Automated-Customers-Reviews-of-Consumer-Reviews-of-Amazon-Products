@@ -3,7 +3,7 @@ Create Dynamic Dashboard
 Purpose:
 • Create a dynamic, clickable visualization dashboard using Plotly Dash.
 • Display summarized reviews by product category in a clean, readable format.
-Author: Massihlo Luca | "NLP Automated Customer Reviews"
+Author: Massih | "NLP Automated Customer Reviews"
 """
 
 import os
